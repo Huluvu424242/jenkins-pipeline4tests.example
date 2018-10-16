@@ -1,0 +1,22 @@
+= RADES Fluent Builder: Projektdokumentation
+FunThomas424242 (Thomas Schubert)
+:doctype: book
+:author: FunThomas424242 (Thomas Schubert)
+:icons: font
+:encoding: utf-8
+:lang: de
+:toc: left
+:numbered:
+
+== Ziele und Roadmap des Projektes
+Ziel des Projektes ist es eine Jenkins Pipeline im Dockercontainer bereit zu stellen um die Qualität vom aktuellen Projekt zu sichern.
+Die Konfiguration soll sich später durch Kopieren eines Ordners auf andere Projekte übertragen lassen.
+
+
+== Fragen zu den Projektzielen
+
+[horizontal]
+
+== Weitere Dokumentation
+
+Hier finden Sie auch das link:benutzer.html[Benutzerhandbuch] und die link:entwickler.html[Entwicklerdokumentation] für dieses Projekt.
